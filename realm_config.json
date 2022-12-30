@@ -1,0 +1,8 @@
+{
+    "app_id": "github-tracker-tutorial-nnoff",
+    "config_version": 20210101,
+    "name": "github-tracker-tutorial",
+    "location": "DE-FF",
+    "provider_region": "azure-westeurope",
+    "deployment_model": "LOCAL"
+}
